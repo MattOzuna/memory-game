@@ -1,0 +1,21 @@
+/* #game{
+  display:flex;
+  flex: 5;
+} */
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  transition: 1000ms;
+}
+
+.restart-button{
+  display: inline-block;
+}
+
+.scoreboard{
+  display: inline-block;
+  margin: 10px;
+}
