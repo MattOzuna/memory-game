@@ -4,7 +4,7 @@
 } */
 #game div {
   border: 1px solid black;
-  width: 15%;
+  width: 200px;
   height: 200px;
   margin: 10px;
   display: inline-block;
@@ -18,4 +18,9 @@
 .scoreboard{
   display: inline-block;
   margin: 10px;
+}
+
+#game {
+  display: flex;
+  flex-wrap: wrap;
 }
