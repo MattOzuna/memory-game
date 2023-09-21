@@ -1,2 +1,2 @@
 # memory-game
-Bootcamp final exercise for DOM practise
+Bootcamp final exercise for DOM practice
